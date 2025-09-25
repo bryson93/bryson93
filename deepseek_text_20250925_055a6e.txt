@@ -1,0 +1,8 @@
+YourUsername/
+├── README.md                      # Main profile (REQUIRED)
+├── .github/
+│   └── workflows/
+│       └── snake.yml             # Snake animation (OPTIONAL)
+└── assets/
+    ├── profile.jpg               # Profile picture (OPTIONAL)
+    └── banner.png               # Banner image (OPTIONAL)
