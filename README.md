@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm YOUR NAME  
+# 👋 Hey there, I'm bryson  
 
 <!-- 🎇 Animated Banner -->
 <p align="center">
@@ -98,4 +98,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](YOUR-PORTFOLIO)  
 
 ---
-⭐️ From [YOURUSERNAME](https://github.com/YOURUSERNAME)
+⭐️ From [Bryson](https://github.com/YOURUSERNAME)
